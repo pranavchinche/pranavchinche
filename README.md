@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pranav Chinche
 ### Data Science Student & Backend Developer 🚀
 
-A passionate 3rd-year B.Tech Computer Science student specializing in Data Science. I focus on bridging the gap between rigorous mathematical data modeling and robust, scalable backend architectures.
+A passionate  B.Tech Computer Science student specializing in Data Science. I focus on bridging the gap between rigorous mathematical data modeling and robust, scalable backend architectures.
 
 ---
 
